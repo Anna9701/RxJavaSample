@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxJavaSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="RxJavaSuccess">All strings emitted!</string>
+</resources>
